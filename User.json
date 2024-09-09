@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Tera",
+    "last_name": "De Ruggiero",
+    "email": "tderuggiero0@nifty.com",
+    "gender": "Female",
+    "salary": 10000
+  },
+  {
+    "id": 2,
+    "first_name": "Keriann",
+    "last_name": "Mityushin",
+    "email": "kmityushin1@com.com",
+    "gender": "Female",
+    "salary": 12000
+  },
+  {
+    "id": 3,
+    "first_name": "Val",
+    "last_name": "Sebley",
+    "email": "vsebley2@illinois.edu",
+    "gender": "Female",
+    "salary": 14000
+  },
+  {
+    "id": 4,
+    "first_name": "Charita",
+    "last_name": "Byrkmyr",
+    "email": "cbyrkmyr3@myspace.com",
+    "gender": "Female",
+    "salary": 12000
+  },
+  {
+    "id": 5,
+    "first_name": "Whittaker",
+    "last_name": "Doreward",
+    "email": "wdoreward4@shareasale.com",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 6,
+    "first_name": "Appolonia",
+    "last_name": "Jaycox",
+    "email": "ajaycox5@pinterest.com",
+    "gender": "Female",
+    "salary": 22000
+  },
+  {
+    "id": 7,
+    "first_name": "Alwyn",
+    "last_name": "Southers",
+    "email": "asouthers6@google.com.hk",
+    "gender": "Male",
+    "salary": 10000
+  },
+  {
+    "id": 8,
+    "first_name": "Nettie",
+    "last_name": "De Atta",
+    "email": "ndeatta7@lulu.com",
+    "gender": "Bigender",
+    "salary": 24000
+  },
+  {
+    "id": 9,
+    "first_name": "Fletcher",
+    "last_name": "Robben",
+    "email": "frobben8@google.es",
+    "gender": "Male",
+    "salary": 20000
+  },
+  {
+    "id": 10,
+    "first_name": "Eamon",
+    "last_name": "Valiant",
+    "email": "evaliant9@netvibes.com",
+    "gender": "Male",
+    "salary": 15000
+  }
+]
